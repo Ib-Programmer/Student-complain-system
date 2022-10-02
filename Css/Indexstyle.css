@@ -1,0 +1,18 @@
+body{
+    background-color: whitesmoke;
+  }
+  .Introduction{
+   font-size: 30px;
+   font-family: Arial, Helvetica, sans-serif;
+   margin-top: 10%;
+   margin-left:5%;
+   font-style: italic;
+   font-weight: bold;
+  
+  }
+  textarea{
+    font-size: 25px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+  }
+  
